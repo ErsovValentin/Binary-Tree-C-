@@ -1,0 +1,350 @@
+230
+Battlefield 3
+9.11
+2011
+Shooter
+Digital Illusions
+Sweeden
+189
+GTA V
+9.37
+2013
+Action
+Rockstar North
+USA
+374
+Metro
+9.25
+2013
+Action
+4A Games
+Ukraine
+276
+Diablo
+9.20
+1996
+RPG
+Blizzard
+USA
+30
+L.A. Noire
+9.00
+2011
+Action
+Team Bondi
+Australia
+129
+Left 4 Dead 2
+9.00
+2009
+Shooter
+Valve
+USA
+229
+Resident Evil 4
+9.00
+2005
+Action
+Capcom Company
+Japan
+201
+Outlast
+8.37
+2013
+Horror
+Red Barrels
+Canada
+370
+Tomb Raider
+8.95
+2013
+Adventure
+Crystal Dynamics
+USA
+134
+Mafia II
+8.94
+2010
+Action
+Illusion Softworks
+Czech
+483
+Mortal Kombat
+8.90
+1992
+Fighting
+Midway/Acclaim
+USA
+23
+Call of Duty 2
+8.82
+2005
+Shooter
+Infinity Ward
+USA
+290
+Plants vs.Zombies
+8.78
+2009
+Arcade
+Pop cup
+USA
+65
+Need for Speed
+8.75
+2003
+Racing
+Electronic Arts
+Canada
+42
+GTA: San Andreas
+7.99
+2004
+Action
+Rockstar North
+USA
+496
+Far Cry 3
+7.68
+2012
+Action
+Ubisoft Montreal
+Canada
+464
+Doom
+8.00
+1993
+Shooter
+id Software
+USA
+1
+The Witcher 3
+9.59
+2015
+RPG
+CD Projekt RED
+Poland
+145
+Assassin`s Creed
+8.40
+2007
+Adventure
+Ubisoft
+Canada
+25
+Quake
+7.35
+1996
+Shooter
+id Software
+USA
+321
+Fallout 3
+7.78
+2008
+RPG
+Bethesda
+USA
+292
+Hitman
+7.29
+2006
+Action
+Eidos
+UK
+198
+Call of Duty 4
+8.12
+2007
+Shooter
+Activision
+USA
+479
+Max Payne 2
+8.63
+2003
+Action
+Rockstar Games
+USA
+347
+Dishonored
+8.71
+2012
+RPG
+Bethesda
+USA
+19
+Soul Suspect
+8.31
+2014
+Adventure
+Airtight Games
+USA
+125
+Batman
+8.80
+2015
+Action
+Warner Bros.
+UK
+320
+Half-Life
+8.04
+1998
+Action
+Valve
+USA
+136
+Warcraft III
+8.94
+2003
+Strategy
+Blizzard
+USA
+96
+Horizon Zero Dawn
+9.00
+2017
+Action
+Guerrilla
+Netherlands
+389
+Alan Wake
+9.10
+2010
+Action
+Remedy
+Finland
+232
+Gears of War
+8.16
+2006
+Shooter
+Epic Games
+USA
+221
+GTA IV
+8.45
+2008
+Action
+Rockstar Games
+USA
+328
+Dead Space
+8.06
+2008
+Horror
+Visceral Games
+USA
+394
+NFS: Most Wanted
+9.08
+2005
+Racing
+Electronic Arts
+Canada
+103
+Tetris
+9.05
+1984
+Arcade
+Alexey Pajitnov
+USSR
+315
+BioShock 2
+7.38
+2010
+Shooter
+2K Marin
+USA
+289
+Alien:Isolation
+8.33
+2014
+Horror
+Creative Assembly
+UK
+284
+Diablo III
+9.22
+2012
+RPG
+Blizzard
+USA
+146
+Alien Shooter
+9.25
+2003
+Shooter
+Sigma Team
+Russia
+406
+Batman 2
+9.36
+2009
+Action
+Warner Bros.
+USA
+426
+Skyrim
+9.03
+2011
+RPG
+Bethesda Game
+USA
+260
+Portal
+9.33
+2007
+Arcade
+Valve
+USA
+460
+Uncharted 4
+9.33
+2016
+Adventure
+Naughty Dog
+USA
+452
+Until Dawn
+9.40
+2015
+Horror
+Supermassive Games
+UK
+353
+The Last of Us
+9.59
+2013
+Adventure
+Naughty Dog
+USA
+248
+Reign of Chaos
+8.25
+2002
+Strategy
+Blizzard
+USA
+337
+Dragon Age:Origins
+8.23
+2009
+RPG
+Electronic Arts
+Canada
+135
+Prince of Persia
+9.12
+2003
+Adventure
+Ubi Soft
+Finland
+499
+The Darkness II
+8.66
+2012
+Shooter
+2K Games
+USA
