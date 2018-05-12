@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526117949 source:e:\git projects\binary tree\binary tree c++\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+

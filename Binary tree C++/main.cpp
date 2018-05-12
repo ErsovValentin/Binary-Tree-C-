@@ -232,26 +232,6 @@ binaryTree_node *insertNode(binaryTree_node *root,Games data)
         }
 
 
-/// Search the element in file
-void searchNode(binaryTree_node *root, string data)
-{
-    if (root == NULL)
-    {
-        cout<<"Element not found"<<endl;
-        return ;
-    }
-    else if (data == root->data.getName())
-    {
-        cout<<root->data<<endl;
-        return ;
-    }
-    else if (data <= root->data.getName())
-        return searchNode(root->left, data);
-    else
-        return searchNode(root->right, data);
-}
-
-
 ///Find the end of binary tree
 binaryTree_node *findMinNode(binaryTree_node *root)
 {
@@ -361,6 +341,44 @@ void delete_All_binaryTree(binaryTree_node *root)
     root = delete_binaryTree(root,root->data);
 }
 
+
+int position_of_element;
+/// Search the element in file
+int searchNode(binaryTree_node *root, string data)
+{
+    if (root == NULL)
+    {
+        cout<<"Element not found"<<endl;
+        return 0;
+    }
+    else if (data == root->data.getName())
+    {
+        cout<<root->data<<endl;
+        return position_of_element;
+    }
+    else if (data <= root->data.getName())
+    {
+        position_of_element++;
+        return searchNode(root->left, data);
+    }
+    else
+    {
+        position_of_element++;
+        return searchNode(root->right, data);
+    }
+
+}
+
+///Find desired element in binary tree
+void find_desired_elem(binaryTree_node *root)
+{
+    string temp;
+    position_of_element = 1;
+    cout<< "Enter the name of desired game : ";
+    getline(cin,temp);
+    cout<<"Position of desired element : "<<searchNode(root,temp)<<endl;
+}
+
 /// Main
 int main()
 {
@@ -377,9 +395,9 @@ int main()
     cout<< "Postorder Traversal of binary tree : "<<endl<<endl;
     postorderTraversal(root);
 
+    find_desired_elem(root);
 
     delete_All_binaryTree(root);
-
 
     return 0;
 }
